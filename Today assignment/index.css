@@ -1,0 +1,53 @@
+body{
+  background-color: gainsboro;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+}
+.fa{
+  color: rgb(94, 94, 255);
+}   
+.text{
+  margin: 20px 5px;
+  font-size: small;
+}
+a{
+  border-bottom: 2px solid blue;
+}
+.box-inside{
+  background-color: white;
+  text-align: center;
+  padding: 50px 5px;
+  margin: 30px 5px;
+}
+.box{
+  padding: 60px 5px ;
+
+}
+.box-inside1{
+  background-color: white;
+  text-align: center;
+    padding: 50px 5px;
+    margin: 30px 5px;
+}
+.text-twitter{
+  margin: 20px 5px;
+  font-size: small;
+}
+.box-inside2 {
+  background-color: white;
+  text-align: center;
+  padding: 50px 5px;
+  margin: 30px 5px;
+}
+
+.text-facebook {
+  margin: 20px 5px;
+  font-size: small;
+}
+a:hover{
+  text-decoration: none;
+}
